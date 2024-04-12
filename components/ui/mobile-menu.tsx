@@ -98,7 +98,7 @@ const MobileMenu: React.FC<MobileMenuProps> = ({ starsCount }) => {
                   className="flex items-center ml-4 mt-2 gap-2 text-sm text-primary-400 font-extrabold transition-colors hover:text-primary-300"
                   target="_blank"
                   rel="noopener noreferrer"
-                  aria-label="Keploy Github Repo"
+                  aria-label="Berufvernetzen Github Repo"
                   data-radix-collection-item=""
                   href="https://www.github.com/keploy/keploy"
                 >

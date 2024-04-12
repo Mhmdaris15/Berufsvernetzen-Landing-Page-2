@@ -109,7 +109,7 @@ export default function Header() {
           {/*    /!* /!*<li className="ml-auto">*!/*/}
           {/*    /!*  <div className="border border-primary-400 rounded-md overflow-hidden p-2.5 border-opacity-40 ">*!/*/}
           {/*    /!*    <a className="flex items-center gap-2 text-sm text-primary-400 font-extrabold transition-colors hover:text-primary-500"*!/*/}
-          {/*    /!*       target="_blank" rel="noopener noreferrer" aria-label="Keploy Github Repo"*!/*/}
+          {/*    /!*       target="_blank" rel="noopener noreferrer" aria-label="Berufvernetzen Github Repo"*!/*/}
           {/*    /!*       data-radix-collection-item="" href="https://www.github.com/keploy/keploy">*!/*/}
           {/*    /!*      <svg className="h-5 w-5" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">*!/*/}
           {/*    /!*        <title>Github Logo</title>*!/*/}
@@ -135,7 +135,7 @@ export default function Header() {
             {/*    className="flex items-center gap-2 text-sm text-primary-400 font-extrabold transition-colors hover:text-primary-500"*/}
             {/*    target="_blank"*/}
             {/*    rel="noopener noreferrer"*/}
-            {/*    aria-label="Keploy Github Repo"*/}
+            {/*    aria-label="Berufvernetzen Github Repo"*/}
             {/*    data-radix-collection-item=""*/}
             {/*    href="https://www.github.com/keploy/keploy"*/}
             {/*  >*/}

@@ -285,27 +285,27 @@ export const socialLinks: SocialLink[] = [
           href: 'https://www.youtube.com/channel/UC6OTg7F4o0WkmNtSoob34lg',
           icon: <YoutubeIcon/>,
           title: 'Youtube',
-          description:'Learn with Keploy team and community videos'
+          description:'Learn with Berufvernetzen team and community videos'
         },
         {
           href: 'https://github.com/keploy/keploy',
           icon: <GithubIcon/>,
           title: 'Github',
-          description:'Contribute code to Keploy or report a bug'
+          description:'Contribute code to Berufvernetzen or report a bug'
   
         },
         {
           href: 'https://join.slack.com/t/keploy/shared_invite/zt-2dno1yetd-Ec3el~tTwHYIHgGI0jPe7A',
           icon: <SlackIcon/>,
           title: 'Slack',
-          description:'Connect and chat with other Keploy users'
+          description:'Connect and chat with other Berufvernetzen users'
   
         },
         {
           href: 'https://www.linkedin.com/company/74471957',
           icon: <LinkedInIcon/>,
           title: 'LinkedIn',
-          description:'Follow us and connect with other Keploy engineers!'
+          description:'Follow us and connect with other Berufvernetzen engineers!'
         },
   ];
 

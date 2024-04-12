@@ -40,7 +40,7 @@ export default function ProblemBlocks() {
             ))}
           </div>
           <div className="flex justify-center md:justify-center gap-4 mt-4">
-            <a className="btn text-secondary-300 bg-primary-300 hover:text-white" href="https://www.github.com/keploy/keploy">Try Keploy</a>
+            <a className="btn text-secondary-300 bg-primary-300 hover:text-white" href="https://www.github.com/keploy/keploy">Try Berufvernetzen</a>
           </div>
         </div>
       </div>

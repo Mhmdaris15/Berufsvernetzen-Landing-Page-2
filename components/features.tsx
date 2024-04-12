@@ -202,7 +202,7 @@ export default function Features() {
       <section ref={container} className="relative hidden lg:block">
         <div className="absolute left-0 right-0 max-w-3xl pt-2 mx-auto mt-16 text-center top-6 heading-text">
           <h1 className="mb-2 text-5xl font-bold text-secondary-300">
-            Keploy for developers
+            Berufvernetzen for developers
           </h1>
           <p className="text-xl text-gray-600">
             simplified testing, capturing network interactions and generating
@@ -263,7 +263,7 @@ export default function Features() {
                   </svg>
                 }
                 heading={"Native Integration"}
-                description="Merge Keploy tests with testing libraries(JUnit, go-test, py-test, jest) for combined test coverage."
+                description="Merge Berufvernetzen tests with testing libraries(JUnit, go-test, py-test, jest) for combined test coverage."
               />
             </div>
           </div>

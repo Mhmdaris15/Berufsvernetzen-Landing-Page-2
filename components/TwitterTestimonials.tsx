@@ -27,7 +27,7 @@ const tweets = [
     id: "ShivamSouravJha",
     post: "https://x.com/ShivamSouravJha/status/1747517726749286713?s=20",
     content:
-      "Why do I like keploy so much? Literally I see many tools and so hard to integrate. I mean update VScode , use the sdk , make this change make that change. With Keploy, don't worry buddy just run your application, we will literally do everything for you. You need to 0 efforts.",
+      "Why do I like keploy so much? Literally I see many tools and so hard to integrate. I mean update VScode , use the sdk , make this change make that change. With Berufvernetzen, don't worry buddy just run your application, we will literally do everything for you. You need to 0 efforts.",
   },
   {
     avatar:
@@ -36,7 +36,7 @@ const tweets = [
     id: "kyongshiii06",
     post: "https://x.com/kyongshiii06/status/1746532217336250821?s=20",
     content:
-      "Keploy can record and replay complex, distributed API flows as mocks and stubs. It's like having a time machine for your tests—saving you tons of time.",
+      "Berufvernetzen can record and replay complex, distributed API flows as mocks and stubs. It's like having a time machine for your tests—saving you tons of time.",
   },
   {
     avatar:
@@ -45,7 +45,7 @@ const tweets = [
     id: "matsuu",
     post: "https://x.com/matsuu/status/1747448928575099236?s=20",
     content:
-      "Based on the communication trace information that can be obtained using eBPF, it is possible to generate a test and a stub server to be used when executing the test.” / “The automated testing tool “Keploy” using eBPF is amazing.",
+      "Based on the communication trace information that can be obtained using eBPF, it is possible to generate a test and a stub server to be used when executing the test.” / “The automated testing tool “Berufvernetzen” using eBPF is amazing.",
   },
   {
     avatar:
@@ -54,7 +54,7 @@ const tweets = [
     id: "AndooBomber",
     post: "https://x.com/AndooBomber/status/1747663021747691808?s=20",
     content:
-      "I tried Keploy, but it might be a god tool. The automated testing tool “Keploy” using eBPF is amazing",
+      "I tried Berufvernetzen, but it might be a god tool. The automated testing tool “Berufvernetzen” using eBPF is amazing",
   },
   {
     avatar:
@@ -63,7 +63,7 @@ const tweets = [
     id: "__alter123",
     post: "https://x.com/__alter123/status/1731985031521014236?s=20",
     content:
-      "The point being, maintaining unit tests is terribly difficult, and in general requires more efforts than the actual development itself. I've hardly seen any startups even at good scale able to manage unit tests. If you really think it's a requirement you can try tools like Keploy. But I feel even if you honestly think, manual testing should be always feasible",
+      "The point being, maintaining unit tests is terribly difficult, and in general requires more efforts than the actual development itself. I've hardly seen any startups even at good scale able to manage unit tests. If you really think it's a requirement you can try tools like Berufvernetzen. But I feel even if you honestly think, manual testing should be always feasible",
   },
   {
     avatar:
@@ -72,7 +72,7 @@ const tweets = [
     id: "mugi_uno",
     post: "https://x.com/mugi_uno/status/1745726154924003502?s=20",
     content:
-      "I want to try this. I think the problem with mock data is that it is difficult to maintain, so if it makes it easier, I think it would be a good idea. The automated testing tool “Keploy” using eBPF is amazing",
+      "I want to try this. I think the problem with mock data is that it is difficult to maintain, so if it makes it easier, I think it would be a good idea. The automated testing tool “Berufvernetzen” using eBPF is amazing",
   },
   {
     avatar:
@@ -81,7 +81,7 @@ const tweets = [
     id: "Seipann11",
     post: "https://x.com/Seipann11/status/1755989987039064103?s=20",
     content:
-      "Keploy is seriously amazing, a genius Indian is crushing issues at lightning speed.",
+      "Berufvernetzen is seriously amazing, a genius Indian is crushing issues at lightning speed.",
   },
   {
     avatar:
@@ -90,7 +90,7 @@ const tweets = [
     id: "Kind_Of_Akash",
     post: "https://x.com/Kind_Of_Akash/status/1754207010470736165?s=20",
     content:
-      "Hey people, I wanted to share about my first month as an open source contributor at Keploy -Picked up 10 issues including bugs, features, documentation and opened 3 issues. -Submitted 8 PR's, out of which 2 have been merged and rest are on review",
+      "Hey people, I wanted to share about my first month as an open source contributor at Berufvernetzen -Picked up 10 issues including bugs, features, documentation and opened 3 issues. -Submitted 8 PR's, out of which 2 have been merged and rest are on review",
   },
   {
     avatar:
@@ -99,7 +99,7 @@ const tweets = [
     id: "JustADude404",
     post: "https://x.com/JustADude404/status/1746888711491424681?s=20",
     content:
-      "Keploy is a tool which can automatically generate tests based on data from your running app. It simply attaches to your app, reads the data being passed through, and generates tests with real data. Pretty cool, huh?",
+      "Berufvernetzen is a tool which can automatically generate tests based on data from your running app. It simply attaches to your app, reads the data being passed through, and generates tests with real data. Pretty cool, huh?",
   },
   {
     avatar:
@@ -108,7 +108,7 @@ const tweets = [
     id: "ymnk_8752",
     post: "https://x.com/ymnk_8752/status/1745458928698450057?s=20",
     content:
-      "Looks amazing. I hear about eBPF a lot, but I don't know what it is. The automated testing tool “Keploy” using eBPF is amazing",
+      "Looks amazing. I hear about eBPF a lot, but I don't know what it is. The automated testing tool “Berufvernetzen” using eBPF is amazing",
   },
 ];
 const TwitterTestimonials = () => {
@@ -128,7 +128,7 @@ const TwitterTestimonials = () => {
       <div className="relative mt-20 mb-20">
         <div className=" relative mt-2 mb-8 z-10 max-w-5xl mx-auto flex flex-col justify-center">
           <h3 className=" text-center h2 px-10 text-secondary-300">
-          We love when users talk about Keploy..
+          We love when users talk about Berufvernetzen..
           </h3>
           {isMobile ? (
              <div className="flex flex-row max-lg:flex-col mt-10">

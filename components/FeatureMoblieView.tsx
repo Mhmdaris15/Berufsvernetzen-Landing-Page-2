@@ -57,7 +57,7 @@ export default function FeaturesMobileView() {
           {/* Section header */}
           <div className="max-w-3xl pb-12 mx-auto text-center md:pb-16">
             <h1 className="mb-4 h2 text-secondary-300">
-              Keploy for developers
+              Berufvernetzen for developers
             </h1>
             <p className="text-xl text-gray-600">
               simplified testing, capturing network interactions and generating
@@ -175,7 +175,7 @@ export default function FeaturesMobileView() {
                       Native Integration
                     </div>
                     <div className="text-gray-600">
-                      Merge Keploy tests with testing libraries(JUnit, go-test,
+                      Merge Berufvernetzen tests with testing libraries(JUnit, go-test,
                       py-test, jest) for combined test coverage.
                     </div>
                   </div>

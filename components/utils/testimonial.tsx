@@ -5,7 +5,7 @@ export const testimonialData = [
   {
     image: MarutiLogo,
     content:
-      "Our recent collaboration with Keploy was truly remarkable. Keploy team provided exceptional support and remained highly proactive throughout the entire experience. Keploy platform has added business value to Maruti Suzuki.",
+      "Our recent collaboration with Berufvernetzen was truly remarkable. Berufvernetzen team provided exceptional support and remained highly proactive throughout the entire experience. Berufvernetzen platform has added business value to Maruti Suzuki.",
     author: "Executive Member",
     company: "@Maruti Suzuki",
   },

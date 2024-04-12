@@ -78,7 +78,7 @@ export default function Newsletter() {
 
                 {/* CTA content */}
                 <div className="text-center lg:text-left lg:max-w-xl">
-                  <h3 className="h3 text-primary-300 mb-2">Keploy test coverage Challenge! </h3>
+                  <h3 className="h3 text-primary-300 mb-2">Berufvernetzen test coverage Challenge! </h3>
                   <h4 className="h4 text-accent-100 mb-2 underline">How it works?</h4>
                   <p className="text-neutral-300 text-lg mb-3">
                     -  Share Your Application Dependencies with us!
@@ -87,7 +87,7 @@ export default function Newsletter() {
                     - Choose any backend application with the <span  className="text-primary-300 text-lg mb-6 font-extrabold">LOWEST</span> Test Coverage!
                   </p>
                   <p className="text-neutral-300 text-lg mb-6">
-                    - Our team will determine if Keploy can generate your API tests. <br/>
+                    - Our team will determine if Berufvernetzen can generate your API tests. <br/>
                     If we can!! you can keep the tests.
                     If we can’t, you get <span className="text-primary-300 text-lg mb-6 font-extrabold">$100.</span>
                   </p>

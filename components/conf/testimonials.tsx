@@ -3,7 +3,7 @@ import Image from 'next/image'
 import GoogleImage from '@/public/images/conf/GoogleForStartups_Horizontal_RGB.png'
 import MoTImage from '@/public/images/conf/ministry-of-testing.svg'
 import CNCFImage from '@/public/images/conf/cncf-white.svg'
-import Keploy from '@/public/images/conf/keploy.svg'
+import Berufvernetzen from '@/public/images/conf/keploy.svg'
 import STSpeaker from '@/public/images/conf/STSpeaker.jpeg'
 import Docker from '@/public/images/conf/docker.png'
 import ReactPlay from '@/public/images/conf/ReactPlay Logo.svg'
@@ -82,12 +82,12 @@ export default function Testimonials() {
               <div>
                 <div className="relative inline-flex flex-col mb-4 h-4/5">
 
-                  <a href="https://keploy.io" title="Go to Keploy" target="_blank" rel="noopener">
+                  <a href="https://keploy.io" title="Go to Berufvernetzen" target="_blank" rel="noopener">
                     <Image decoding="async" width="393"
                            height="129"
-                           src={Keploy}
+                           src={Berufvernetzen}
                            className="logo text-center h-4/5"
-                           alt="Keploy logo"
+                           alt="Berufvernetzen logo"
                            loading="lazy"/>
                   </a>
                 </div>
@@ -167,12 +167,12 @@ export default function Testimonials() {
             {/*  <div>*/}
             {/*    <div className="relative inline-flex flex-col mb-4 ">*/}
 
-            {/*      <a href="https://keploy.io" title="Go to Keploy" target="_blank" rel="noopener">*/}
+            {/*      <a href="https://keploy.io" title="Go to Berufvernetzen" target="_blank" rel="noopener">*/}
             {/*        <Image decoding="async" width="393"*/}
             {/*               height="129"*/}
-            {/*               src={Keploy}*/}
+            {/*               src={Berufvernetzen}*/}
             {/*               className="logo text-center h-4/5"*/}
-            {/*               alt="Keploy logo"*/}
+            {/*               alt="Berufvernetzen logo"*/}
             {/*               loading="lazy"/>*/}
             {/*      </a>*/}
             {/*    </div>*/}
@@ -236,7 +236,7 @@ export default function Testimonials() {
               </div>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700 text-center">
                 <a target="_blank" href="https://www.linkedin.com/in/slayerjain/"  className="text-gray-200 not-italic">Shubham Jain</a> <br/>
-                <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" target="_blank" href="https://www.linkedin.com/in/slayerjain/"> Co-Founder, Keploy</a>
+                <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" target="_blank" href="https://www.linkedin.com/in/slayerjain/"> Co-Founder, Berufvernetzen</a>
               </div>
             </div>
 

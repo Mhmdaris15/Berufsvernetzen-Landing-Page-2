@@ -1,6 +1,6 @@
-# Contributing to Keploy
+# Contributing to Berufvernetzen
 
-Thank you for your interest in Keploy and for taking the time to contribute to this project. 🙌 Keploy is a project by developers for developers and there are a lot of ways you can contribute.
+Thank you for your interest in Berufvernetzen and for taking the time to contribute to this project. 🙌 Berufvernetzen is a project by developers for developers and there are a lot of ways you can contribute.
 
 If you don't know where to start contributing, ask us on our [Slack channel](https://join.slack.com/t/keploy/shared_invite/zt-12rfbvc01-o54cOG0X1G6eVJTuI_orSA).
 
@@ -11,16 +11,16 @@ Contributors are expected to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md)
 ## Prerequisites for the contributors
 
 Contributors should have knowledge of git, go, and markdown for most projects since the project work heavily depends on them.
-We encourage Contributors to set up Keploy for local development and play around with the code and tests to get more comfortable with the project. 
+We encourage Contributors to set up Berufvernetzen for local development and play around with the code and tests to get more comfortable with the project. 
 
 Sections
 
 - <a name="contributing"> General Contribution Flow</a>
   - <a name="#commit-signing">Developer Certificate of Origin</a>
-- <a name="contributing-keploy">Keploy Contribution Flow</a>
-  - <a name="keploy-server">Keploy Server</a>
-  - <a name="keploy-docs">Keploy Documentation</a>
-  - <a name="keploy-sdks">Keploy SDK Integration</a>
+- <a name="contributing-keploy">Berufvernetzen Contribution Flow</a>
+  - <a name="keploy-server">Berufvernetzen Server</a>
+  - <a name="keploy-docs">Berufvernetzen Documentation</a>
+  - <a name="keploy-sdks">Berufvernetzen SDK Integration</a>
 
 # <a name="contributing">General Contribution Flow</a>
 
@@ -97,13 +97,13 @@ _~/.gitconfig_
   commit = commit -s
 ```
 
-## <a name="contributing-keploy">Keploy Website Contribution Flow</a>
+## <a name="contributing-keploy">Berufvernetzen Website Contribution Flow</a>
 
-Keploy Website is written in `Html`, `Css` and `JS` (Javascript).
+Berufvernetzen Website is written in `Html`, `Css` and `JS` (Javascript).
 
-There are many ways in which you can contribute to Keploy Website.
+There are many ways in which you can contribute to Berufvernetzen Website.
 
-###  <a name="keploy-server">Keploy Website</a>
+###  <a name="keploy-server">Berufvernetzen Website</a>
 
 #### Report an Issue
 Report all issues through GitHub Issues using the [Issues]https://github.com/keploy/website/issues/new) template.

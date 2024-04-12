@@ -87,25 +87,25 @@ export default function Community() {
       link: "https://github.com/keploy/keploy",
       svgIcon: GithubSvg,
       platformName: "Github",
-      description: "Contribute code to Keploy or report a bug",
+      description: "Contribute code to Berufvernetzen or report a bug",
     },
     {
       link: "https://join.slack.com/t/keploy/shared_invite/zt-2dno1yetd-Ec3el~tTwHYIHgGI0jPe7A",
       svgIcon: SlackSvg,
       platformName: "Slack",
-      description: "Connect and chat with other Keploy users",
+      description: "Connect and chat with other Berufvernetzen users",
     },
     {
       link: "https://www.youtube.com/channel/UC6OTg7F4o0WkmNtSoob34lg",
       svgIcon: YoutubeSvg,
       platformName: "Youtube",
-      description: "Learn with Keploy team and community videos",
+      description: "Learn with Berufvernetzen team and community videos",
     },
     {
       link: "https://www.linkedin.com/company/74471957",
       svgIcon: LinkedinSvg,
       platformName: "Linkedin",
-      description: "Follow us and connect with other Keploy engineers!",
+      description: "Follow us and connect with other Berufvernetzen engineers!",
     },
   ];
 
@@ -141,7 +141,7 @@ export default function Community() {
     <section className="relative py-8 ">
       <div className="max-w-3xl mx-auto text-center">
         <h2 className="h2 text-secondary-300">
-          🐰 Join the Keploy community ✨
+          🐰 Join the Berufvernetzen community ✨
         </h2>
       </div>
 

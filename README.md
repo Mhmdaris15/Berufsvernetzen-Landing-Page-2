@@ -21,7 +21,7 @@ Feel free to discuss and customize the README guide further based on your projec
 ---
 
 
-Created and maintained with ❤️ by [Keploy.io](https://keploy.io/).
+Created and maintained with ❤️ by [Berufvernetzen.io](https://keploy.io/).
 
 ### Getting Started
 

@@ -64,7 +64,7 @@ export default function Hero() {
             thumb={VideoThumb}
             thumbWidth={768}
             thumbHeight={432}
-            thumbAlt="Keploy Demo video"
+            thumbAlt="Berufvernetzen Demo video"
             video="https://www.youtube.com/embed/23yQaY81Zho"
             videoWidth={768}
             videoHeight={432} />

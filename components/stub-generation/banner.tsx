@@ -14,10 +14,10 @@ export default function Banner() {
             <div className="relative flex flex-col lg:flex-row justify-between items-center">
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
-                <h3 className="h3 text-primary-300 mb-3"> 🚀 Elevate Your Testing with Keploy!  </h3>
+                <h3 className="h3 text-primary-300 mb-3"> 🚀 Elevate Your Testing with Berufvernetzen!  </h3>
                 <h4 className="h4 text-white mb-3 ">Ready to simplify your testing process?</h4>
                 <p className="text-neutral-300 text-lg mb-6">
-                  Click to experience Keploy's magic locally or book a demo for an interactive walkthrough. Embark on a journey to stress-free testing today!
+                  Click to experience Berufvernetzen's magic locally or book a demo for an interactive walkthrough. Embark on a journey to stress-free testing today!
                 </p>
                 <div className="flex flex-col lg:flex-row items-center" data-aos="zoom-y-out" data-aos-delay="300">
                   <div>

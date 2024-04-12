@@ -18,10 +18,10 @@ export default function Privacy() {
 
           {/* Form */}
           <div >
-            Keploy, Inc. Privacy Policy
+            Berufvernetzen, Inc. Privacy Policy
             Last updated: June 8th, 2023
 
-            Keploy Inc. operates https://keploy.io and https://keploy.io/docs (the "Sites"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Sites.
+            Berufvernetzen Inc. operates https://keploy.io and https://keploy.io/docs (the "Sites"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Sites.
 
             We use your Personal Information only for providing and improving the Sites. By using the Sites, you agree to the collection and use of information in accordance with this policy.
 

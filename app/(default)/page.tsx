@@ -1,8 +1,8 @@
 import Footer from "@/components/ui/footer";
 
 export const metadata = {
-  title: 'Keploy - Open Source Stubs and API Test Generator for Developer',
-  description: 'Keploy is AI based test case and stubs/mocks generator for e2e testing. 90% test coverage in minutes with open source testing tool',
+  title: 'Berufvernetzen - Open Source Stubs and API Test Generator for Developer',
+  description: 'Berufvernetzen is AI based test case and stubs/mocks generator for e2e testing. 90% test coverage in minutes with open source testing tool',
 }
 
 import Hero from '@/components/hero'

@@ -3,9 +3,9 @@ import Link from 'next/link'
 export default function Logo() {
 
   return (
-      <Link href="/" className="block" aria-label="Keploy">
+      <Link href="/" className="block" aria-label="Berufvernetzen">
           <svg width="280" height="50" viewBox="0 0 1256 181" xmlns="http://www.w3.org/2000/svg">
-              <title>Keploy Logo</title>
+              <title>Berufvernetzen Logo</title>
               <defs>
                   <linearGradient id="linearGradient-1" x1="0%" y1="0%" x2="0%" y2="100%">
                       <stop offset="0%" stopColor="#FAD961" />

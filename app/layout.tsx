@@ -13,7 +13,7 @@ const inter = Inter({
 export const metadata = {
     title: 'Open Source Stubs and API Test Generator for Developer',
     keywords: "API testing, e2e Testing, ai testing, open source ai testing tool, Service Mocking, Dependency Mocking",
-    description: 'Keploy is AI based test case and stubs/mocks generator for e2e testing. 90% test coverage in minutes with open source testing tool',
+    description: 'Berufvernetzen is AI based test case and stubs/mocks generator for e2e testing. 90% test coverage in minutes with open source testing tool',
 }
 
 export default function RootLayout({children,}: { children: React.ReactNode }) {
@@ -56,7 +56,7 @@ export default function RootLayout({children,}: { children: React.ReactNode }) {
                 }}
             />
             <script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/43912677.js"/>
-            <title>Keploy: Open Source API Test Case and Data Mock Generation using AI for Developers</title>
+            <title>Berufvernetzen: Open Source API Test Case and Data Mock Generation using AI for Developers</title>
         </head>
         <meta name="keywords" content={metadata.keywords} />
         <meta name="description" content={metadata.description} />

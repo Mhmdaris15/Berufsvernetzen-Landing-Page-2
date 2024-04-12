@@ -86,7 +86,7 @@ const Installation = () => {
             1. Installing 📥
           </h1>
           <p className=" text-gray-700 mb-2 text-xs md:text-sm lg:text-base">
-            Integrate Keploy by installing the open-source agent locally. No
+            Integrate Berufvernetzen by installing the open-source agent locally. No
             code-changes required.
           </p>
           <div className="flex flex-row gap-5">
@@ -159,7 +159,7 @@ const Installation = () => {
             3. Test 🧪
           </h1>
           <p className=" text-gray-700 mb-2 mt-1 text-xs md:text-sm lg:text-base">
-            Shut down Database , Redis , Kafka and other services. Keploy don't need
+            Shut down Database , Redis , Kafka and other services. Berufvernetzen don't need
             those during test.
           </p>
 

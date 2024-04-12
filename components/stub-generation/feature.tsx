@@ -10,7 +10,7 @@ export default function Features() {
         <div className="text-center mb-12">
           <h2 className="text-xl text-center text-gray-600 pb-12 md:mt-12">Transforming interactions into realistic, diverse, and customizable stubs for precise testing</h2>
           <h2 className="h2 font-bold text-secondary-300">
-            With Keploy's stub generation{" "}
+            With Berufvernetzen's stub generation{" "}
             <span className="relative inline-block pl-1 border-l-2 border-primary-400 mt-3" data-aos="fade-right" data-aos-delay="200">{" "}
               <span
                 className="absolute inset-0 bg-gradient-to-r from-primary-300 to-primary-50 opacity-50 "

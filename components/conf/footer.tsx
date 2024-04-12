@@ -160,7 +160,7 @@ export default function ConfFooter() {
           </ul>
 
           {/* Copyrights note */}
-          <div className="text-sm text-neutral-300 mr-4">&copy; Keploy Inc 2023. All rights reserved.</div>
+          <div className="text-sm text-neutral-300 mr-4">&copy; Berufvernetzen Inc 2023. All rights reserved.</div>
 
         </div>
 

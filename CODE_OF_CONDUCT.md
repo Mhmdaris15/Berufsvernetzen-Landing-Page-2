@@ -1,4 +1,4 @@
-# Contributor Code of Conduct for Keploy
+# Contributor Code of Conduct for Berufvernetzen
 
 ## Our Pledge
 
@@ -52,7 +52,7 @@ decisions when appropriate.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces related to Keploy, and also applies when
+This Code of Conduct applies within all community spaces related to Berufvernetzen, and also applies when
 an individual is officially representing the community in public spaces.
 Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed

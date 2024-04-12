@@ -9,7 +9,7 @@ const SocialCloud: React.FC = () => {
     <section className='bg-neutral-100 py-8'>
       <div className="max-w-3xl mx-auto text-center ">
         <h2 className="h2 text-secondary-300 ">
-          🐰 Join the Keploy community ✨
+          🐰 Join the Berufvernetzen community ✨
         </h2>
       </div>
       <div className="social-cloud" >
